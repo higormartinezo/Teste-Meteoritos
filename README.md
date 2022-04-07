@@ -4,4 +4,4 @@ Este teste desenvolvido em Python avalia se uma determinada rocha tem caracterí
 Para realizar o teste basta responder algumas perguntas simples sobre os aspectos do interior e exterior da rocha suspeita. 
 
 Para saber mais sobre os meteoritos e a sua importância científica:
-https://sites.google.com/view/meteoritoid/in%C3%ADcio 
+https://sites.google.com/view/meteoritoid/
